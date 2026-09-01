@@ -1,0 +1,11 @@
+# Executáveis compilados
+*.exe
+*.out
+*.o
+main
+
+# Diretórios de build e IDEs
+.vscode/
+.idea/
+bin/
+build/
